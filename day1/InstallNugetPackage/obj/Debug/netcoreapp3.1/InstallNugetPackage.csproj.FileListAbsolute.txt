@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\C#\InstallNugetPackage\bin\Debug\netcoreapp3.1\InstallNugetPackage.exe
+C:\Users\admin\Documents\C#\InstallNugetPackage\bin\Debug\netcoreapp3.1\InstallNugetPackage.deps.json
+C:\Users\admin\Documents\C#\InstallNugetPackage\bin\Debug\netcoreapp3.1\InstallNugetPackage.runtimeconfig.json
+C:\Users\admin\Documents\C#\InstallNugetPackage\bin\Debug\netcoreapp3.1\InstallNugetPackage.runtimeconfig.dev.json
+C:\Users\admin\Documents\C#\InstallNugetPackage\bin\Debug\netcoreapp3.1\InstallNugetPackage.dll
+C:\Users\admin\Documents\C#\InstallNugetPackage\bin\Debug\netcoreapp3.1\InstallNugetPackage.pdb
+C:\Users\admin\Documents\C#\InstallNugetPackage\obj\Debug\netcoreapp3.1\InstallNugetPackage.csprojAssemblyReference.cache
+C:\Users\admin\Documents\C#\InstallNugetPackage\obj\Debug\netcoreapp3.1\InstallNugetPackage.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\C#\InstallNugetPackage\obj\Debug\netcoreapp3.1\InstallNugetPackage.AssemblyInfo.cs
+C:\Users\admin\Documents\C#\InstallNugetPackage\obj\Debug\netcoreapp3.1\InstallNugetPackage.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C#\InstallNugetPackage\obj\Debug\netcoreapp3.1\InstallNugetPackage.dll
+C:\Users\admin\Documents\C#\InstallNugetPackage\obj\Debug\netcoreapp3.1\InstallNugetPackage.pdb
+C:\Users\admin\Documents\C#\InstallNugetPackage\obj\Debug\netcoreapp3.1\InstallNugetPackage.genruntimeconfig.cache
+C:\Users\admin\Documents\C#\InstallNugetPackage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\admin\Documents\C#\InstallNugetPackage\obj\Debug\netcoreapp3.1\InstallNugetPackage.csproj.CopyComplete
