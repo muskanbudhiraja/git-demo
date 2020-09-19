@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.exe
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.deps.json
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.runtimeconfig.json
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.runtimeconfig.dev.json
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.dll
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.pdb
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\StringLibrary.dll
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\StringLibrary.pdb
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csprojAssemblyReference.cache
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.AssemblyInfo.cs
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csproj.CopyComplete
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.dll
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.pdb
+C:\Users\admin\Documents\C# training\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.genruntimeconfig.cache
